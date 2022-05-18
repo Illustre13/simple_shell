@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * tokenize - creates array of tokens based on user string
+ * tokenize - Creates array of tokens based on user string
  * @buffer: pointer to user string
  *
  * Return: pointer to array of user strings
@@ -92,3 +92,7 @@ char *_concat(char *tmp, char **av, char *tok)
     tmp[len - 1] = '\0';
     return (tmp);
 }
+
+/*
+End
+*/
