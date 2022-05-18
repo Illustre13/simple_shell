@@ -47,4 +47,6 @@ void _puts(char *str);
 int _putchar(char c);
 char *_memset(char *s, char b, unsigned int n);
 
-#endif /* HOLBERTON_H */
+#endif 
+
+/* HOLBERTON_H */
